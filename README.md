@@ -6,4 +6,4 @@ Zafra, A., & Gibaja, E. (2023). Nearest neighbor-based approaches for multi-inst
 The Java implementation of the algorithm is available in the MIML library.
 https://github.com/gibaja/MIML
 
-
+As the algoritm computes distances to determine the neighbourhood, the data should be normalized to [0, 1] before run.
